@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Core", "Loja.Core.csproj", "{3FE2EF9A-0C42-406F-BD6E-91477D3454C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Core.IntegrationTests", "..\Loja.Core.IntegrationTests\Loja.Core.IntegrationTests.csproj", "{404817E8-0512-4CF2-867F-7F9476648D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE2EF9A-0C42-406F-BD6E-91477D3454C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE2EF9A-0C42-406F-BD6E-91477D3454C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FE2EF9A-0C42-406F-BD6E-91477D3454C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FE2EF9A-0C42-406F-BD6E-91477D3454C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404817E8-0512-4CF2-867F-7F9476648D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404817E8-0512-4CF2-867F-7F9476648D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404817E8-0512-4CF2-867F-7F9476648D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404817E8-0512-4CF2-867F-7F9476648D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A67CB1-A847-423F-A4A0-DAD336CE512C}
+	EndGlobalSection
+EndGlobal
